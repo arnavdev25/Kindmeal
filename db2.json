@@ -1,0 +1,429 @@
+{
+    "mealdata":[
+        {
+            "id":1,
+            "img":"https://www.kindmeal.my/photos/deal/6/686-4475-l.jpg",
+            "off":"-15%",
+            "title":"Blend of Asian Flavors",
+            "name":"Figure Out Cafe—  Klang, Selangor",
+            "description":"Let us Figure Out the most delicious blend of Asian flavors, pampering you within a relaxing atmosphere!Enjoy discount off a lar..",
+            "containegg":"https://www.kindmeal.my/images/icon_egg.png",
+            "containdairyproduct":"https://www.kindmeal.my/images/icon_milk.png",
+            "noAlcohol":"https://www.kindmeal.my/images/icon_alcohol_disabled.png",
+            "discounttitle":"KindMeal Discount",
+            "off2":"15%",
+            "star":"https://www.kindmeal.my/images/icon_star.png",
+            "expire": "Expires in 6Days"
+            
+        },
+        {
+            "id":2,
+            "img":"https://www.kindmeal.my/photos/deal/5/565-4023-l.jpg",
+            "off":"-20%",
+            "title":"Buon Appetito at Table9",
+            "name":"Table9 Cafe & Kitchen- Kula Lumpur,Wilayah Persekutuan",
+            "description":"Indulge in a creative fare of Italian cuisine and Korean-inspired drinks in the cozy atmosphere of Table9Select any meat-free i..",
+            "containegg":"https://www.kindmeal.my/images/icon_egg.png",
+            "containdairyproduct":"https://www.kindmeal.my/images/icon_milk.png",
+            "noAlcohol":"https://www.kindmeal.my/images/icon_alcohol_disabled.png",
+            "discounttitle":"KindMeal Discount",
+            "off2":"20%",
+            "star":"https://www.kindmeal.my/images/icon_star.png",
+            "starhalf":"https://www.kindmeal.my/images/icon_star_half.png",
+            "expire": "Expires in 4Days"
+            
+        },
+        {
+            "id":3,
+            "img":"https://www.kindmeal.my/photos/deal/5/574-3020-l.jpg",
+            "off":"-20%",
+            "title":"Mad About Food",
+            "name":"Medal Mad Cafe- Kepong,Kuala Lumpur",
+            "description":"Enjoy a selection of Western cuisine, signature mocktails and desserts, especially their egg bubble waffle! Enjoy meat-free items..",
+            "containegg":"https://www.kindmeal.my/images/icon_egg.png",
+            "containdairyproduct":"https://www.kindmeal.my/images/icon_milk.png",
+            "noAlcohol":"https://www.kindmeal.my/images/icon_alcohol_disabled.png",
+            "discounttitle":"KindMeal Discount",
+            "off2":"20%",
+            "star":"https://www.kindmeal.my/images/icon_star.png",
+            "emptystar":"https://www.kindmeal.my/images/icon_star_grey.png",
+            "expire": "Expires in 5 Days"
+            
+        },
+        {
+            "id":4,
+            "img":"https://www.kindmeal.my/photos/deal/6/617-3503-l.jpg",
+            "off":"-15%",
+            "title":"Earth-Friendly Meals",
+            "name":"Love Earth Cafe-Kuala Lumpur,Wilayah Persekutuan",
+            "description":"Indulge in a wide variety of delicious meat-free cuisines, and contribute to a better Earth and environment! Select from any of o..",
+            "noegg":"https://www.kindmeal.my/images/icon_egg_disabled.png",
+            "containdairyproduct":"https://www.kindmeal.my/images/icon_milk.png",
+            "noAlcohol":"https://www.kindmeal.my/images/icon_alcohol_disabled.png",
+            "discounttitle":"KindMeal Discount",
+            "off2":"15%",
+            "star":"https://www.kindmeal.my/images/icon_star.png",
+           
+            "expire": "Expires in 12 Days"
+            
+        },
+        {
+            "id":5,
+            "img":"https://www.kindmeal.my/photos/deal/5/529-2478-l.jpg",
+            "off":"-20%",
+            "title":"Scrumptious Croutons",
+            "name":"Croutons Cafe-Seri Kembangan,Selangor",
+            "description":"Croutons brings you a sumptuous variety of international cuisines. Indulge in any of the meat-free items from our menu below: • ..",
+            "egg":"https://www.kindmeal.my/images/icon_egg.png",
+            "containdairyproduct":"https://www.kindmeal.my/images/icon_milk.png",
+            "Alcohol":"https://www.kindmeal.my/images/icon_alcohol.png",
+            "discounttitle":"KindMeal Discount",
+            "off2":"20%",
+            "star":"https://www.kindmeal.my/images/icon_star.png",
+            "starhalf":"https://www.kindmeal.my/images/icon_star_half.png",
+           
+            "expire": "Expires in 12 Days"
+            
+        },
+        {
+            "id":6,
+            "img":"https://www.kindmeal.my/photos/deal/4/469-1822-l.jpg",
+            "off":"-20%",
+            "title":"Healthy Personal Salad",
+            "name":"Salad Atelier-Jalan Tun Razak & 4 Branches",
+            "description":"Enjoy a crispy, crunchy adult-sized salad prepared with fresh greens, fruits and healthy ingredients! Choose from a base, 6 meat-..",
+            "noegg":"https://www.kindmeal.my/images/icon_egg_disabled.png",
+            "nocontaindairyproduct":"https://www.kindmeal.my/images/icon_milk_disabled.png",
+            "noAlcohol":"https://www.kindmeal.my/images/icon_alcohol_disabled.png",
+            "discounttitle":"KindMeal (Save RM3.80)",
+            "off2":"RM 15.20",
+            "star":"https://www.kindmeal.my/images/icon_star.png",
+            "starhalf":"https://www.kindmeal.my/images/icon_star_half.png",
+           
+            "expire": "Expires in 11 Days"
+            
+        },
+        {
+            "id":7,
+            "img":"https://www.kindmeal.my/photos/deal/6/681-4353-l.jpg",
+            "off":"-10%",
+            "title":"Contemporary Vegetarian Experience",
+            "name":"Berjaya Cafe- Kuala Lumpur, Wilayah Persekutuan",
+            "description":"Berjaya Cafe delights you with opulence, style and taste from the best chefs in town. Savor only the best in gastronomic experien..",
+            "egg":"https://www.kindmeal.my/images/icon_egg.png",
+            "containdairyproduct":"https://www.kindmeal.my/images/icon_milk.png",
+            "noAlcohol":"https://www.kindmeal.my/images/icon_alcohol_disabled.png",
+            "discounttitle":"KindMeal Discount",
+            "off2":"10%",
+            "star":"https://www.kindmeal.my/images/icon_star.png",
+            "starhalf":"https://www.kindmeal.my/images/icon_star_half.png",
+           
+            "expire": "Expires in 4 Days"
+            
+        },
+        {
+            "id":8,
+            "img":"https://www.kindmeal.my/photos/deal/4/457-2109-l.jpg",
+            "off":"-20%",
+            "title":"Flavours Around the World",
+            "name":"The Black Cat Cafe - Kuala Lumpur, Wilayah persekutuan",
+            "description":"Western and Asian cuisine, all prepared in our humble kitchen with utmost passion and love. On Weekdays, select ANY items from ..",
+            "egg":"https://www.kindmeal.my/images/icon_egg.png",
+            "containdairyproduct":"https://www.kindmeal.my/images/icon_milk.png",
+            "noAlcohol":"https://www.kindmeal.my/images/icon_alcohol_disabled.png",
+            "discounttitle":"KindMeal Discount",
+            "off2":"20%",
+            "star":"https://www.kindmeal.my/images/icon_star.png",
+            
+           
+            "expire": "Expires in 11 Days"
+            
+        },
+        {
+            "id":9,
+            "img":"https://www.kindmeal.my/photos/deal/6/605-3316-l.jpg",
+            "off":"-20%",
+            "title":"Hyderabadi Indian Feast",
+            "name":"Hyderabad Recipes- Kuala Lumpur, Wilayah Persekutuan",
+            "description":"Indulge yourself in the best Hyderabadi cuisine, including the 'World's Favourite Biryani'! Select from any meat-free items from ..",
+            "egg":"https://www.kindmeal.my/images/icon_egg.png",
+            "containdairyproduct":"https://www.kindmeal.my/images/icon_milk.png",
+            "noAlcohol":"https://www.kindmeal.my/images/icon_alcohol_disabled.png",
+            "discounttitle":"KindMeal Discount",
+            "off2":"20%",
+            "star":"https://www.kindmeal.my/images/icon_star.png",
+            "emptystar":"https://www.kindmeal.my/images/icon_star_grey.png",
+           
+            "expire": "Expires in 12 Days"
+            
+        },
+        {
+            "id":10,
+            "img":"https://www.kindmeal.my/photos/deal/4/467-2796-l.jpg",
+            "off":"-20%",
+            "title":"Churros,Coffee & Meals",
+            "name":"PCLO Cafe- Kuala Lumpur, Wilayah Persekutuan",
+            "description":"Think of Churros, think of PCLO Cafe! Each batch of eggless Churros is made with passion and from scratch in our kitchen. Which ..",
+            "egg":"https://www.kindmeal.my/images/icon_egg.png",
+            "containdairyproduct":"https://www.kindmeal.my/images/icon_milk.png",
+            "noAlcohol":"https://www.kindmeal.my/images/icon_alcohol_disabled.png",
+            "discounttitle":"KindMeal Discount",
+            "off2":"20%",
+            "star":"https://www.kindmeal.my/images/icon_star.png",
+            "starhalf":"https://www.kindmeal.my/images/icon_star_half.png",
+           
+            "expire": "Expires in 4 Days"
+            
+        },
+        {
+            "id":11,
+            "img":"https://www.kindmeal.my/photos/deal/4/403-1390-l.jpg",
+            "off":"-20%",
+            "title":"Wellness Meal + 10% Off Organic Products",
+            "name":"Juve Wellness Puchong - Puchong,Selangor",
+            "description":"Select from Ala Carte meal items from the menu, served with a cup of Wellness Tea! Featured food menu items include: Juve Four Se..",
+            "noegg":"https://www.kindmeal.my/images/icon_egg_disabled.png",
+            "nocontaindairyproduct":"https://www.kindmeal.my/images/icon_milk_disabled.png",
+            "noAlcohol":"https://www.kindmeal.my/images/icon_alcohol_disabled.png",
+            "discounttitle":"KindMeal Discount",
+            "off2":"20%",
+            "star":"https://www.kindmeal.my/images/icon_star.png",
+           
+           
+            "expire": "Expires in 4 Days"
+            
+        },
+        {
+            "id":12,
+            "img":"https://www.kindmeal.my/photos/deal/6/610-3386-l.jpg",
+            "off":"-20%",
+            "title":"Authentic Asian Experience",
+            "name":"Cameleon Vegetarian Resturant - Kuala Lumpur, Wilayah Persekutuan",
+            "description":"Indulge yourself in healthy, authentic Asian cuisines within a traditional dinning environment. Enjoy any items from our ala cart..",
+            "noegg":"https://www.kindmeal.my/images/icon_egg_disabled.png",
+            "containdairyproduct":"https://www.kindmeal.my/images/icon_milk.png",
+            "noAlcohol":"https://www.kindmeal.my/images/icon_alcohol_disabled.png",
+            "discounttitle":"KindMeal Discount",
+            "off2":"20%",
+            "star":"https://www.kindmeal.my/images/icon_star.png",
+            "starhalf":"https://www.kindmeal.my/images/icon_star_half.png",
+           
+            "expire": "Expires in 12 Days"
+            
+        },
+        {
+            "id":13,
+            "img":"https://www.kindmeal.my/photos/deal/6/677-4286-l.jpg",
+            "off":"-20%",
+            "title":"Japanese Vegan Feast",
+            "name":"SUPE Vegan - Kuala Lumpur, Wilayah Persekutuan",
+            "description":"Indulge yourself with creative, delicious and healthy fusion Japanese vegan cuisine at SUPE! Featuring uniquely crafted vegan mea..",
+            "noegg":"https://www.kindmeal.my/images/icon_egg_disabled.png",
+            "nocontaindairyproduct":"https://www.kindmeal.my/images/icon_milk_disabled.png",
+            "noAlcohol":"https://www.kindmeal.my/images/icon_alcohol_disabled.png",
+            "discounttitle":"KindMeal Discount",
+            "off2":"20%",
+            "star":"https://www.kindmeal.my/images/icon_star.png",
+           
+           
+            "expire": "Expires in 12 Days"
+            
+        },
+        {
+            "id":14,
+            "img":"https://www.kindmeal.my/photos/deal/3/383-1189-l.jpg",
+            "off":"-20%",
+            "title":"Dining Bowl Asian Delicates",
+            "name":"Dining Bowl - Kuala Lumpur, Wilayah Persekutuan",
+            "description":"Dine in this authentic cozy Chinese environment with any items from the menu, made with fresh and quality ingredients, in an envir..",
+            "egg":"https://www.kindmeal.my/images/icon_egg.png",
+            "containdairyproduct":"https://www.kindmeal.my/images/icon_milk.png",
+            "noAlcohol":"https://www.kindmeal.my/images/icon_alcohol_disabled.png",
+            "discounttitle":"KindMeal Discount",
+            "off2":"20%",
+            "star":"https://www.kindmeal.my/images/icon_star.png",
+           "emptystar":"https://www.kindmeal.my/images/icon_star_grey.png",
+           
+            "expire": "Expires in 9 Days"
+            
+        },
+        {
+            "id":15,
+            "img":"https://www.kindmeal.my/photos/deal/5/590-3137-l.jpg",
+            "off":"-20%",
+            "title":"Rawsome Lifestyle",
+            "name":"Rawsome - Sungai Buloh,Selangor",
+            "description":"Enjoy healthy, guilt-free, raw food meals artfully crafted for a nutritious and delicious experience. Indulge in a satisfying mea..",
+            "egg":"https://www.kindmeal.my/images/icon_egg.png",
+            "nocontaindairyproduct":"https://www.kindmeal.my/images/icon_milk_disabled.png",
+            "noAlcohol":"https://www.kindmeal.my/images/icon_alcohol_disabled.png",
+            "discounttitle":"KindMeal Discount",
+            "off2":"20%",
+            "star":"https://www.kindmeal.my/images/icon_star.png",
+           "starhalf":"https://www.kindmeal.my/images/icon_star_half.png",
+           
+            "expire": "Expires in 13 Days"
+            
+        },
+        {
+            "id":16,
+            "img":"https://www.kindmeal.my/photos/deal/3/301-722-l.jpg",
+            "off":"-20%",
+            "title":"MBG Fruit Juice Deal",
+            "name":"MBG Fruit Shop - Petaling Jaya & 5 Branches",
+            "description":"Enjoy discount from any of our signature fruit juices below: No 1 (Avocado + Date Sweetener + Yogurt + Milk) – RM12.70 No 8 (Gi..",
+            "noegg":"https://www.kindmeal.my/images/icon_egg_disabled.png",
+            "nocontaindairyproduct":"https://www.kindmeal.my/images/icon_milk_disabled.png",
+            "noAlcohol":"https://www.kindmeal.my/images/icon_alcohol_disabled.png",
+            "discounttitle":"KindMeal Discount",
+            "off2":"20%",
+            "star":"https://www.kindmeal.my/images/icon_star.png",
+          
+           
+            "expire": "Expires in 1 Days"
+            
+        },
+        {
+            "id":17,
+            "img":"https://www.kindmeal.my/photos/deal/6/682-4370-l.jpg",
+            "off":"-15%",
+            "title":"Smooth Teas & Cold Brews",
+            "name":"Fullleaf Tea Store - Bandar Sunway, Selangor",
+            "description":"Chill out with our ready-to-drink Cold Brew Teas! Invigorate yourself with our healthy, refreshing selection of Pure and Smooth T..",
+            "noegg":"https://www.kindmeal.my/images/icon_egg_disabled.png",
+            "containdairyproduct":"https://www.kindmeal.my/images/icon_milk.png",
+            "noAlcohol":"https://www.kindmeal.my/images/icon_alcohol_disabled.png",
+            "discounttitle":"KindMeal Discount",
+            "off2":"20%",
+            "star":"https://www.kindmeal.my/images/icon_star.png",
+          
+           
+            "expire": "Expires in 1 Days"
+            
+        },
+        {
+            "id":18,
+            "img":"https://www.kindmeal.my/photos/deal/6/664-4296-l.jpg",
+            "off":"-10%",
+            "title":"The Soul of Local Delights",
+            "name":"Soul Green - Perniagaan Kota Shahbandar , Melaka",
+            "description":"Revitalize your soul with our healthy, delicious local cuisine, straight from the food paradise of Melaka! Enjoy discounts off al..",
+            "egg":"https://www.kindmeal.my/images/icon_egg.png",
+            "nocontaindairyproduct":"https://www.kindmeal.my/images/icon_milk_disabled.png",
+            "noAlcohol":"https://www.kindmeal.my/images/icon_alcohol_disabled.png",
+            "discounttitle":"KindMeal Discount",
+            "off2":"10%",
+            "star":"https://www.kindmeal.my/images/icon_star.png",
+          
+           
+            "expire": "Expires in 6 Days"
+            
+        },
+        {
+            "id":19,
+            "img":"https://www.kindmeal.my/photos/deal/6/634-3683-l.jpg",
+            "off":"-20%",
+            "title":"Vegan Thai Delights",
+            "name":"Veggielicious Thai Cuisine - Petaling Jaya,Selangor",
+            "description":"Indulge in a wide array of authentic Thai vegan dishes within a cozy environment! Deliciously crafted to bring you the finest gas..",
+            "noegg":"https://www.kindmeal.my/images/icon_egg_disabled.png",
+            "nocontaindairyproduct":"https://www.kindmeal.my/images/icon_milk_disabled.png",
+            "noAlcohol":"https://www.kindmeal.my/images/icon_alcohol_disabled.png",
+            "discounttitle":"KindMeal Discount",
+            "off2":"20%",
+            "star":"https://www.kindmeal.my/images/icon_star.png",
+          
+           
+            "expire": "Expires in 3 Days"
+            
+        },
+        {
+            "id":20,
+            "img":"https://www.kindmeal.my/photos/deal/6/685-4392-l.jpg",
+            "off":"-15%",
+            "title":"Authentic Italian Indulgence",
+            "name":"The Italian Job - Petaling Jaya,Selangor",
+            "description":"Enjoy authentic Italian cuisine within a cozy environment! Pizza, breads and sometimes cakes or cookies are baked within the in-h..",
+            "egg":"https://www.kindmeal.my/images/icon_egg.png",
+            "containdairyproduct":"https://www.kindmeal.my/images/icon_milk.png",
+            "noAlcohol":"https://www.kindmeal.my/images/icon_alcohol_disabled.png",
+            "discounttitle":"KindMeal Discount",
+            "off2":"15%",
+            "star":"https://www.kindmeal.my/images/icon_star.png",
+         
+           
+            "expire": "Expires in 13 Days"
+            
+        },
+        {
+            "id":21,
+            "img":"https://www.kindmeal.my/photos/deal/6/628-4921-l.jpg",
+            "off":"-15%",
+            "title":"Janpanese Fusion Delights",
+            "name":"Sushi Kitchen Kota Damansara —  Petaling Jaya, Selangor",
+            "description":"Enjoy creative, delicious and healthy fusion Japanese cuisine at Sushi Kitchen! Meticulously prepared with fresh, quality ingredi..",
+            "noegg":"https://www.kindmeal.my/images/icon_egg_disabled.png",
+            "nocontaindairyproduct":"https://www.kindmeal.my/images/icon_milk_disabled.png",
+            "noAlcohol":"https://www.kindmeal.my/images/icon_alcohol_disabled.png",
+            "discounttitle":"KindMeal Discount",
+            "off2":"15%",
+            "star":"https://www.kindmeal.my/images/icon_star.png",
+           
+           
+            "expire": "Expires in 13 Days"
+            
+        },
+        {
+            "id":22,
+            "img":"https://www.kindmeal.my/photos/deal/5/553-2769-l.jpg",
+            "off":"-10%",
+            "title":"Sandalo Weekday Gourmet",
+            "name":"Sandalo Healthy Vegetarian —  Petaling Jaya, Selangor",
+            "description":"Nourish your body and delight your taste buds with our tasty selection of vegetarian dishes. Choose from any of our menu items, i..",
+            "egg":"https://www.kindmeal.my/images/icon_egg.png",
+            "nocontaindairyproduct":"https://www.kindmeal.my/images/icon_milk_disabled.png",
+            "noAlcohol":"https://www.kindmeal.my/images/icon_alcohol_disabled.png",
+            "discounttitle":"KindMeal Discount",
+            "off2":"10%",
+            "star":"https://www.kindmeal.my/images/icon_star.png",
+           "starhalf":"https://www.kindmeal.my/images/icon_star_half.png",
+           
+            "expire": "Expires in 12 Days"
+            
+        },
+        {
+            "id":23,
+            "img":"https://www.kindmeal.my/photos/deal/5/591-3151-l.jpg",
+            "off":"-20%",
+            "title":"Vegipai's Fusion Indulgence",
+            "name":"Vegipai Cafe —  Taman Desa, Off Jln. Kelang La.., Kuala Lumpur",
+            "description":"Indulge in a healthy and tasty variety of Oriental and Western delicacies, prepared with quality ingredients! Enjoy any items fro..",
+            "egg":"https://www.kindmeal.my/images/icon_egg.png",
+            "containdairyproduct":"https://www.kindmeal.my/images/icon_milk.png",
+            "noAlcohol":"https://www.kindmeal.my/images/icon_alcohol_disabled.png",
+            "discounttitle":"KindMeal Discount",
+            "off2":"20%",
+            "star":"https://www.kindmeal.my/images/icon_star.png",
+           "starhalf":"https://www.kindmeal.my/images/icon_star_half.png",
+           
+            "expire": "Expires in 8 Days"
+            
+        },
+        {
+            "id":24,
+            "img":"https://www.kindmeal.my/photos/deal/6/698-4639-l.jpg",
+            "off":"-10%",
+            "title":"Nutritious Meets Delicious",
+            "name":"Wise Crafters —  Petaling Jaya, Selangorr",
+            "description":"Wise Crafters offers freshly-prepared meals, developed by a team of chefs and nutritionists. Let us invigorate your body and mind..",
+            "egg":"https://www.kindmeal.my/images/icon_egg.png",
+            "containdairyproduct":"https://www.kindmeal.my/images/icon_milk.png",
+            "noAlcohol":"https://www.kindmeal.my/images/icon_alcohol_disabled.png",
+            "discounttitle":"KindMeal Discount",
+            "off2":"10%",
+            "emptystar":"https://www.kindmeal.my/images/icon_star_grey.png",
+            "expire": "Expires in 13 Days"
+            
+        }
+    ]
+}

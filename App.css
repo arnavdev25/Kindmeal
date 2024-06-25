@@ -1,0 +1,39 @@
+body{
+  width: 70%;
+  height: 500px;
+  /* border: 2px solid red; */
+  margin: auto;
+   margin-top: 50px;
+}
+
+.container{
+  display: flex;
+}
+.img{
+  width: 10%;
+  height: 10%;
+  /* border: 2px solid green; */
+    margin-left: 15%;
+}
+#img{
+  width: 65px;
+  height: 65px;
+ margin-top: 7px;
+}
+#text{
+  margin-left: 16%;
+}
+#text1{
+  margin-left: 16%;
+ 
+}
+.btn{
+  margin-left: 16%;
+}
+#btn{
+  background-color: red;
+  width: 25%;
+  height: 45%;
+  border: 2px solid red;
+  border-radius: 5px;
+}
