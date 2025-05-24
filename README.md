@@ -3,6 +3,8 @@ KindMeal.my is Malaysia's leading meat-free lifestyle
 platform, indulging you with delicious discounted
 vegetarian meals at cozy environments.
 
+https://spontaneous-fox-d2902a.netlify.app/
+
 <h1>KindMeal Clone</h1>
  <h2>Landing Page</h2>
     <img src="https://i.imgur.com/XncRffo.png" alt="">
